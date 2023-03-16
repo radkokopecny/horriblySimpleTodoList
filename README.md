@@ -21,7 +21,7 @@ just run it as every other simple react application
 ---
 
 ## Usage
-After you clone this repo to your desktop, go to its root directory and run `npm install` and `npm install axios`.
+After you clone this repo to your desktop, go to its root directory and run `npm install`.
 
 Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
 
